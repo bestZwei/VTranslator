@@ -1,0 +1,12 @@
+{
+  "name": "vtranslator",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  }
+}
